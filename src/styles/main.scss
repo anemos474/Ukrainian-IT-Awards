@@ -43,9 +43,12 @@ body {
         margin: 0;
     }
 }
+.head__box{
+    height: 900px;
+}
 .header__wrap{
     position: relative;
-    height: 100vh;
+    height: 900px;
     .navigation__line{
         position: absolute;
         top: 0;
@@ -212,7 +215,7 @@ body {
     }
 }
 .image{
-    @include cover-image(720px, 100vh);
+    @include cover-image(720px, 900px);
 }
 .blocks__moves{
     .moves1{
@@ -347,7 +350,7 @@ body {
     border-left: 1px solid #CE68F8;
     li{
         display: inline-flex;
-        padding: 0px 12px;
+        padding: 0px 15px;
         text-align: center;
         color: #EAE4E4;
         border-right: 1px solid #CE68F8;

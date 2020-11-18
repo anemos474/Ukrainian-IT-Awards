@@ -5,6 +5,7 @@ const webpack = require('webpack');
 module.exports = {
   entry: {
     main: path.resolve(__dirname, './src/index.js'),
+    'css/main.css': './src/styles/main.scss'
   },
   output: {
     path: path.resolve(__dirname, './dist'),

@@ -35,140 +35,140 @@ let data = [
         years: '2020',
         info:[
             {
-                img: "/src/images/Design.png",
+                img: "images/Design.png",
                 color: "turquoise",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design1.png",
+                img: "images/Design1.png",
                 color: "turquoise",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design2.png",
+                img: "images/Design2.png",
                 color: "turquoise",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design3.png",
+                img: "images/Design3.png",
                 color: "turquoise",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design.png",
+                img: "images/Design.png",
                 color: "orange",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design1.png",
+                img: "images/Design1.png",
                 color: "orange",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design2.png",
+                img: "images/Design2.png",
                 color: "orange",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design3.png",
+                img: "images/Design3.png",
                 color: "orange",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design.png",
+                img: "images/Design.png",
                 color: "blue",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design1.png",
+                img: "images/Design1.png",
                 color: "blue",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design2.png",
+                img: "images/Design2.png",
                 color: "blue",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design3.png",
+                img: "images/Design3.png",
                 color: "blue",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design.png",
+                img: "images/Design.png",
                 color: "purple",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design1.png",
+                img: "images/Design1.png",
                 color: "purple",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design2.png",
+                img: "images/Design2.png",
                 color: "purple",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design3.png",
+                img: "images/Design3.png",
                 color: "purple",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design.png",
+                img: "images/Design.png",
                 color: "yellow",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design1.png",
+                img: "images/Design1.png",
                 color: "yellow",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design2.png",
+                img: "images/Design2.png",
                 color: "yellow",
                 name: "Ярослав Зубко",
                 position: "Design nomination",
                 descript: "Lead Product Designer, Revenue, Tinder"
             },
             {
-                img: "/src/images/Design3.png",
+                img: "images/Design3.png",
                 color: "yellow",
                 name: "Ярослав Зубко",
                 position: "Design nomination",

@@ -1,2 +1,2 @@
-import './styles/main.scss';
+import css from'./styles/main.scss';
 import './js/data.js';
